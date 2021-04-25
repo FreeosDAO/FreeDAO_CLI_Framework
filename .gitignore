@@ -1,0 +1,10 @@
+.idea
+__pycache__
+*.py[cod]
+db.sqlite3
+.pytest_cache
+*.pytest_cache
+venv
+*.egg
+*.log
+.cache
