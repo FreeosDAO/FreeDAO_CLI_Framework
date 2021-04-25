@@ -1,0 +1,23 @@
+{
+  "users": {
+    "e": {
+      "username": "",
+      "kyc": "e",
+      "password": "",
+      "wallet_path": ""
+    },
+    "d": {
+      "username": "",
+      "kyc": "",
+      "password": "",
+      "wallet_path": ""
+    },
+    "v": {
+      "username": "",
+      "kyc": "",
+      "password": "",
+      "wallet_path": ""
+    }
+  }
+
+}
